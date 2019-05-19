@@ -1,0 +1,6 @@
+.wrap {
+  max-width: 3000px;
+  margin: 0px auto;
+  /* padding: ; */
+  position: relative;
+}
